@@ -1,0 +1,10 @@
+ultralytics==8.3.167
+streamlit
+torch>=2.0.0
+torchvision
+opencv-python
+matplotlib
+pandas
+numpy
+requests
+pyyaml
