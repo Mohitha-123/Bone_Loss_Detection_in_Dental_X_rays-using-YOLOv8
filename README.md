@@ -23,6 +23,6 @@ Refer to file structure in this repo.
 
 ## 🔗 Demo
 - https://huggingface.co/spaces/Mohitha/Bone_Loss_Detection_in_Dental_X_rays
-- 
+- https://drive.google.com/file/d/1rcEyXMcq8t7oeAJR5XK8N1tbdbVk6fKM/view?usp=sharing
 
 
